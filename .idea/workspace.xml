@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MachineLearning" />
+  </component>
   <component name="ProjectId" id="1baX533CBaVaDyhI8Yiqbfye0ac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,49 +33,7 @@
       <recent name="E:\MachineLearning\Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9.SavingMachineLearningModels">
-    <configuration name="1.FeaturesFromDictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\MachineLearning\Basic\1.FeaturesFromDictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5.MakeSimulatedDataForClassification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/5.MakeSimulatedDataForClassification.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.create_data">
     <configuration name="6.MakeSimulatedDataForClustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,13 +118,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="create_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/create_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create_data" />
         <item itemvalue="Python.9.SavingMachineLearningModels" />
         <item itemvalue="Python.8.PerceptronInScikit" />
         <item itemvalue="Python.7.MakeSimulatedDataForRegression" />
         <item itemvalue="Python.6.MakeSimulatedDataForClustering" />
-        <item itemvalue="Python.5.MakeSimulatedDataForClassification" />
       </list>
     </recent_temporary>
   </component>
@@ -184,22 +167,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="187" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588872338472" />
-    <state width="802" height="208" key="GridCell.Tab.0.bottom" timestamp="1589477804483">
+    <state x="591" y="328" key="Github.CreateGistDialog" timestamp="1589478367462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="802" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589477804483" />
-    <state width="802" height="208" key="GridCell.Tab.0.center" timestamp="1589477804483">
+    <state x="591" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1589478367462" />
+    <state width="812" height="208" key="GridCell.Tab.0.bottom" timestamp="1592588838272">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="802" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589477804483" />
-    <state width="802" height="208" key="GridCell.Tab.0.left" timestamp="1589477804483">
+    <state width="812" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592588838272" />
+    <state width="812" height="208" key="GridCell.Tab.0.center" timestamp="1592588838272">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="802" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589477804483" />
-    <state width="802" height="208" key="GridCell.Tab.0.right" timestamp="1589477804483">
+    <state width="812" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592588838272" />
+    <state width="812" height="208" key="GridCell.Tab.0.left" timestamp="1592588838272">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="802" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589477804483" />
+    <state width="812" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592588838272" />
+    <state width="812" height="208" key="GridCell.Tab.0.right" timestamp="1592588838272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="812" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592588838272" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1588872549730">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
