@@ -50,8 +50,8 @@ d = X.shape[0]
 w_init = np.random.randn(d, 1)
 (w, m) = perceptron(X, y, w_init)
 print(m)
-print(w)
-print(len(w))
+# print(w)
+# print(len(w))
 
 
 def draw_line(w):
